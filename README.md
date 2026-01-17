@@ -28,7 +28,7 @@ BundesligaApp - Android-додаток для перегляду турнірн�
 - 🔄 Coroutines + Flow
 
 ▶️ Запуск проєкту
-- 1️⃣ Клонувати репозиторій: git clone https://github.com/your-username/BundesligaApp.git
+- 1️⃣ Клонувати репозиторій: git clone https://github.com/Vitalik1800/Bundesliga.git
 - 2️⃣ Відкрити проєкт в Android Studio
 - 3️⃣ Додати Firebase:
   - Створити Firebase-проєкт
